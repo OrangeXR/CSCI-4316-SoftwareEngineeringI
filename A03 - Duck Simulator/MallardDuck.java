@@ -1,12 +1,10 @@
 package headfirst.designpatterns.strategy;
 
 public class MallardDuck extends Duck {
-
 	public MallardDuck() {
-
-		quackBehavior = new Quack();
-		flyBehavior = new FlyWithWings();
-
+        swimBehavior = new SwimWithFeet();
+        flyBehavior = new FlyWithWings();
+        quackBehavior = new Quack();
 	}
 
 	public void display() {

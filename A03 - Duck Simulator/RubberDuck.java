@@ -1,11 +1,11 @@
 package headfirst.designpatterns.strategy;
 
 public class RubberDuck extends Duck {
- 
 	public RubberDuck() {
 		flyBehavior = new FlyNoWay();
-		//quackBehavior = new Squeak();
-		quackBehavior = () -> System.out.println("Squeak");
+        swimBehavior = new SwimNoWay();
+		quackBehavior = new Squeak(); //
+        //quackBehavior = new Squeak();
 	}
 	
 	public RubberDuck(FlyBehavior flyBehavior, QuackBehavior quackBehavior) {
