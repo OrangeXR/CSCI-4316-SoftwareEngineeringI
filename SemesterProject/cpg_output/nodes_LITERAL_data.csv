@@ -1,0 +1,7 @@
+90194313216,LITERAL,2,,10,19,,6,,,2,,int
+90194313217,LITERAL,1,,"""Enter the password: """,12,,7,,,1,,char*
+90194313218,LITERAL,2,,"""secret""",26,,9,,,2,,char*
+90194313219,LITERAL,2,,0,39,,9,,,2,,int
+90194313220,LITERAL,1,,"""Access granted!\\n""",16,,10,,,1,,char*
+90194313221,LITERAL,1,,"""Access denied!\\n""",16,,12,,,1,,char*
+90194313222,LITERAL,-1,,0,12,,14,,,1,,int

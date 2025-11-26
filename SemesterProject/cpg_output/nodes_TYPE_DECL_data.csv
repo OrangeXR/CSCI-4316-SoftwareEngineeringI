@@ -1,0 +1,7 @@
+167503724544,TYPE_DECL,,boflow2.c:<global>,TYPE_DECL,main,1,boflow2.c,main,<empty>,,false,5,main,,,1
+167503724545,TYPE_DECL,,boflow2.c:<global>,NAMESPACE_BLOCK,<global>,1,boflow2.c,boflow2.c:<global>,<empty>,,false,1,<global>,,,2
+167503724546,TYPE_DECL,,<includes>:<global>,NAMESPACE_BLOCK,ANY,,<includes>,ANY,<empty>,,true,,ANY,,,-1
+167503724547,TYPE_DECL,,<includes>:<global>,NAMESPACE_BLOCK,char*,,<includes>,char*,<empty>,,true,,char*,,,-1
+167503724548,TYPE_DECL,,<includes>:<global>,NAMESPACE_BLOCK,char[10],,<includes>,char[10],<empty>,,true,,char[10],,,-1
+167503724549,TYPE_DECL,,<includes>:<global>,NAMESPACE_BLOCK,int,,<includes>,int,<empty>,,true,,int,,,-1
+167503724550,TYPE_DECL,,<includes>:<global>,NAMESPACE_BLOCK,void,,<includes>,void,<empty>,,true,,void,,,-1
