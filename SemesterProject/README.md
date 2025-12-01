@@ -1,4 +1,4 @@
-Document Links: [install](#install) / [usage](#usage)
+Document Links: [install](#install) / [usage](#usage) / [demo](#demo)
 <img width="1024" height="1024" alt="A graphic-heavy logo" src="https://github.com/user-attachments/assets/976c6553-16f0-441a-859e-90ae828f4231" />
 <center> Vulnerability Scanner<br />
 Group project for Software Engineering<br /><br />
@@ -70,4 +70,13 @@ Here is a closer look at the table:
 
 
 
+
+
+
+
+
+
+
+<a name="demo"></a>Demo:<br />
+[![Scanner Demo](https://i9.ytimg.com/vi_webp/uKoejHmPt8Y/mq1.webp?sqp=CKDFuMkG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgRSgmMA8=&rs=AOn4CLDtpET5GecYZqztGKV10IeRAmXPPw)](https://youtu.be/uKoejHmPt8Y)
 
