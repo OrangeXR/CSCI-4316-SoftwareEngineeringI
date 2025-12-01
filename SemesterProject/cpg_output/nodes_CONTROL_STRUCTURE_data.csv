@@ -1,6 +1,0 @@
-47244640256,CONTROL_STRUCTURE,-1,,"if (strcmp(password, ""secret"") == 0) {
-        printf(""Access granted!\\n"");
-    } else {
-        printf(""Access denied!\\n"");
-    }",5,IF,9,,,5,CASTIfStatement
-47244640257,CONTROL_STRUCTURE,-1,,else,12,ELSE,11,,,3,CASTCompoundStatement
