@@ -88,5 +88,5 @@ Here is a closer look at the table:
 <br /><br /><br /><br />
 
 TEAM TEN<br />
-<a href="https://github.com/OrangeXR"><img width="30" height="30" alt="A graphic-heavy logo" src="https://avatars.githubusercontent.com/u/77978673?s=64&v=4" /></a><a href="https://github.com/soldudo"><img width="30" height="30" alt="A graphic-heavy logo" src="https://avatars.githubusercontent.com/u/88810277?s=64&v=4" /></a><a href="https://github.com/gabreuhl"><img width="30" height="30" alt="A graphic-heavy logo" src="https://avatars.githubusercontent.com/u/195609199?s=64&v=4" /></a>
+<a href="https://github.com/OrangeXR"><img width="40" height="40" alt="A graphic-heavy logo" src="https://avatars.githubusercontent.com/u/77978673?s=64&v=4" /></a><a href="https://github.com/soldudo"><img width="40" height="40" alt="A graphic-heavy logo" src="https://avatars.githubusercontent.com/u/88810277?s=64&v=4" /></a><a href="https://github.com/gabreuhl"><img width="40" height="40" alt="A graphic-heavy logo" src="https://avatars.githubusercontent.com/u/195609199?s=64&v=4" /></a>
 
